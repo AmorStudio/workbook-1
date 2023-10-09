@@ -30,7 +30,7 @@ public class Work {
 
         //[width]
         //minimum number of characters to be written as output
-        //System.out.printf("Hello %-10s", myString);
+        System.out.printf("Hello %-10s", myString);
 
         //[precision]
         // sets number of digits of precision when outputting floating-point values

@@ -25,6 +25,7 @@ public class Main {
 
         {
           //Do addition
+
            answer = firstNumber + secoundNumber;
         }
         else if (UserInput == 's')
